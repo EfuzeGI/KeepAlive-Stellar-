@@ -1,0 +1,15 @@
+{
+  "name": "keeper-node",
+  "version": "1.0.0",
+  "description": "KeepAlive Protocol Bot",
+  "main": "keeper.js",
+  "type": "module",
+  "scripts": {
+    "start": "node keeper.js",
+    "dev": "nodemon keeper.js"
+  },
+  "dependencies": {
+    "@stellar/stellar-sdk": "^12.1.0",
+    "dotenv": "^16.4.5"
+  }
+}
