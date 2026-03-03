@@ -214,7 +214,7 @@ export default function LandingPage() {
                     <p className="hero-sub">Your crypto stays protected — always. An autonomous on-chain protocol that transfers your Stellar wallet to a trusted beneficiary when prolonged inactivity is detected.</p>
                     <div className="hero-cta-row">
                         <Link href="/freighter-demo" className="btn-primary">ACTIVATE PROTOCOL</Link>
-                        <a href="#" className="btn-ghost">READ DOCS →</a>
+                        <a href="https://github.com/EfuzeGI/KeepAlive-Stellar-" target="_blank" rel="noopener noreferrer" className="btn-ghost">READ DOCS →</a>
                     </div>
                     <div style={{ marginBottom: "5rem", position: "relative", zIndex: 2 }}>
                         <div style={{ display: "flex", alignItems: "center", gap: "0.75rem" }}>
@@ -484,7 +484,7 @@ export default function LandingPage() {
                         </div>
                         <div className="footer-col">
                             <h4 className="mono" style={{ fontSize: "0.75rem", letterSpacing: "0.15em", color: "#666", fontWeight: 500, marginBottom: "1.5rem" }}>RESOURCES</h4>
-                            <a href="https://github.com/keepalive" target="_blank" rel="noopener noreferrer">GitHub Repository</a>
+                            <a href="https://github.com/EfuzeGI/KeepAlive-Stellar-" target="_blank" rel="noopener noreferrer">GitHub Repository</a>
                         </div>
                         <div className="footer-col">
                             <h4 className="mono" style={{ fontSize: "0.75rem", letterSpacing: "0.15em", color: "#666", fontWeight: 500, marginBottom: "1.5rem" }}>NETWORK</h4>
