@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: "KeepAlive Protocol — Eliminate the Bus Factor",
   description: "Non-custodial Smart Contract Factory on Stellar Soroban. Deploy isolated fallback vaults for DAO treasuries and DeFi protocols.",
   icons: {
-    icon: "/icon.svg",
+    icon: "/icon.png",
   },
 };
 
